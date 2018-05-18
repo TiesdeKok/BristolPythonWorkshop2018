@@ -18,17 +18,17 @@ Slides: <a href="http://www.tiesdekok.com/python_course_slides/introduction_slid
 
 2) Handling data with `Pandas`  
 <span style="padding-left: 20px" class="arrow-right"></span> Wednesday
-Slides: <a href="http://www.tiesdekok.com/python_course_slides/introduction_slides/" target="_blank">Handling data with Pandas</a>
+Slides: <a href="http://www.tiesdekok.com/python_course_slides/pandas_slides/" target="_blank">Handling data with Pandas</a>
 <span style="display: block; padding-top: 5px"></span>
 
 3) Gathering data from the web  
 <span style="padding-left: 20px" class="arrow-right"></span> Thursday
-Slides: <a href="http://www.tiesdekok.com/python_course_slides/introduction_slides/" target="_blank">Gathering data from the web</a>
+Slides: <a href="http://www.tiesdekok.com/python_course_slides/webscraping_slides/" target="_blank">Gathering data from the web</a>
 <span style="display: block; padding-top: 5px"></span>
 
 4) Natural Language Processing  
 <span style="padding-left: 20px" class="arrow-right"></span> Friday
-Slides: <a href="http://www.tiesdekok.com/python_course_slides/introduction_slides/" target="_blank">Natural Language Processing with Python</a>
+Slides: <a href="http://www.tiesdekok.com/python_course_slides/nlp_slides" target="_blank">Natural Language Processing with Python</a>
 <span style="display: block; padding-top: 5px"></span>
 
 **Note:** the `Materials` folder also contains PDF version of the slides for offline use. 
